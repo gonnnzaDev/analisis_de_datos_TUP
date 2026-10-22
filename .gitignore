@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos locales (no subir datasets pesados ni credenciales)
+data/crudo/
+data/intermedio/
+data/procesado/
+data/descartado/
+entrada/
+*.log
+.env
+.env.local
+
+# Reportes generados (opcional, si preferís regenerarlos)
+reportes/tablas/
+reportes/figuras/
+reportes/resumen_analisis.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ollama modelos (si los bajaste acá)
+~/.local/ollama/
+ollama.tar.zst
+
+# Playwright browsers
+~/.cache/ms-playwright/

@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+matplotlib
+python-dotenv
+tqdm
+playwright
+Pillow
+pypdf
