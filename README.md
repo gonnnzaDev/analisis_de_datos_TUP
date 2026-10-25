@@ -40,6 +40,7 @@
 - [Guía de comandos](#guia-de-comandos)
 - [Datos externos y OCR](#datos-externos-y-ocr)
 - [Fuentes de datos](#fuentes)
+- [Diccionario de datos y ficha de evaluación](#diccionario)
 - [Resultados y salidas](#resultados-y-salidas)
 - [Estructura del proyecto](#estructura)
 - [Configuración](#configuracion)
@@ -677,6 +678,8 @@ quedan en `juegos_externos.csv`; las cifras van a `datos_externos.csv`.
 
 <a id="fuentes"></a>
 ## 🔎 Fuentes de datos
+
+> 📖 Diccionario de datos completo y ficha de evaluación: [`DICCIONARIO.md`](./DICCIONARIO.md).
 
 ### 1. API pública de Steam (sin API key)
 
